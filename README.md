@@ -1,2 +1,2 @@
 # KITABII
-site e-commerce de livres
+site e-commerce de livres.
